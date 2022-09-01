@@ -1,0 +1,11 @@
+body{
+   display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+}
+#dibujo{ 
+   border:solid 2px  rgb(96, 0, 250);
+   
+}
